@@ -67,9 +67,9 @@ Arena-de-Campeones/
 ├── Video juego.py
 ├── README.md
 ├── .gitignore
-└── partida.json
 
-> `partida.json` contiene los datos de la partida guardada y no debería subirse al repositorio.
+
+
 
 ---
 
